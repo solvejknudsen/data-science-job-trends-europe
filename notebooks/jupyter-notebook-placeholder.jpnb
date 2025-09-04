@@ -1,1 +1,4 @@
+import numpy
 
+# Can I write in jupyter notebook directly here? 
+# It seems too good to be true..
